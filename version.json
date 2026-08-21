@@ -1,5 +1,5 @@
 {
-  "version": "26.8.3",
+  "version": "26.8.4",
   "download_url": "https://github.com/ezstudio-dev/ezs-hub-package/releases/latest",
-  "release_notes": "EZS DesignHub has moved to EZS Hub. Uninstall EZS DesignHub in SketchUp Extension Manager, then download and install EZS_Hub_v26.8.3.rbz from this GitHub Release."
+  "release_notes": "EZS DesignHub has moved to EZS Hub. Uninstall EZS DesignHub in SketchUp Extension Manager, then download and install EZS_Hub_v26.8.4.rbz from this GitHub Release."
 }
